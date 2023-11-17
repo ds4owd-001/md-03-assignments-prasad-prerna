@@ -3,7 +3,7 @@ title: "Data transformation with dplyr"
 subtitle: "Practice with penguins"
 author: "Prerna Prasad"
 format:
-  pdf:
+  html:
     embed-resources: true
 editor: visual
 execute:
